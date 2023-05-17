@@ -38,8 +38,8 @@ ul {
     display:flex;
 
     flex-direction: row;
-    justify-content: space-evenly;
-    gap: 50px;
+    justify-content: center;
+    gap: 20px;
 }
 
 .img-placeholder {
@@ -153,17 +153,22 @@ ul {
     font-size: 20px;
 }
 
+.strip4 {
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+
 .blue-box {
     display:flex;
     background-color: #3882F6;
     margin: 50px;
-    margin-left: 150px;
-    margin-right: 150px;
     justify-content: space-around;
     align-items: center;
     padding-top: 15px;
     padding-bottom: 15px;
     border-radius: 10px;
+    width: 950px;
 }
 
 .signup2 {
