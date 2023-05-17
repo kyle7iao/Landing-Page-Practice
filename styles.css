@@ -189,3 +189,14 @@ ul {
 #am-2 {
     margin-top:0px;
 }
+
+.footer {
+    background-color: #1F2937;
+    height: 40px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding-top: 20px;
+    color: #E5E7EB;
+}
