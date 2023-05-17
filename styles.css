@@ -138,7 +138,7 @@ ul {
     font-size: 36px;
     color: #1F2937;
     padding: 20px;
-    width: 800px;
+    width: 750px;
     margin-bottom: 0px;
     padding-top: 0px;
     font-style: italic;
@@ -153,3 +153,39 @@ ul {
     font-size: 20px;
 }
 
+.blue-box {
+    display:flex;
+    background-color: #3882F6;
+    margin: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+}
+
+.signup2 {
+    background-color: #3882F6;
+    border-radius: 10%;
+    color: white;
+    width: 100px;
+    height: 32px;
+    border-radius: 8px;
+    outline: 2px solid white;
+}
+
+.action-messages {
+    font-size: 16px;
+    color: white;
+}
+
+#am-1 {
+    font-weight: bold;
+    margin-bottom: 4px;
+}
+
+#am-2 {
+    margin-top:0px;
+}
